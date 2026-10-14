@@ -1,0 +1,10 @@
+{
+  "kernel_repository": "https://github.com/linux-chenxing/linux-chenxing-vendor-slop",
+  "kernel_revision": "979122be45d470e959c2245c996fa93dea10069b",
+  "kernel_url": "https://codeload.github.com/linux-chenxing/linux-chenxing-vendor-slop/tar.gz/979122be45d470e959c2245c996fa93dea10069b",
+  "kernel_sha256": "7c3a2f881c43c129557d8ccdcd9a8ca9b13039e32946d978cacdfdc8550bec33",
+  "toolchain_url": "https://armkeil.blob.core.windows.net/developer/Files/downloads/gnu-a/8.2-2018.08/gcc-arm-8.2-2018.08-x86_64-arm-linux-gnueabihf.tar.xz",
+  "toolchain_sha256": "5b3f20e1327edc3073e545a5bd3d15f33e7f94181ff4e37a76e95924c1b439b9",
+  "vermagic": "4.9.84 SMP preempt mod_unload ARMv7 thumb2 p2v8 ",
+  "tested_loop_sha256": "5b885d465a00ebb4a56ac9d3dff50a685848d66d41c9e35199244fcfb9ab37c3"
+}
